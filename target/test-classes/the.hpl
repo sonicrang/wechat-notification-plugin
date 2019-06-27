@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: wechat-notification-plugin
+Long-Name: wechat-notification-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-06/27/2019 11:48-daffo)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: Rang Wu:sonicrang:sonicrang@gmail.com
+Libraries: D:\workspace\wechat-notification-plugin\src\main\resources,
+ D:\workspace\wechat-notification-plugin\target\classes,C:\Users\daffo
+ \.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar,C:\Use
+ rs\daffo\.m2\repository\commons-codec\commons-codec\1.9\commons-codec
+ -1.9.jar,C:\Users\daffo\.m2\repository\org\apache\httpcomponents\http
+ client\4.5.2\httpclient-4.5.2.jar,C:\Users\daffo\.m2\repository\org\a
+ pache\httpcomponents\httpcore\4.4.5\httpcore-4.4.5.jar
+Resource-Path: D:\workspace\wechat-notification-plugin\src\main\webapp
+

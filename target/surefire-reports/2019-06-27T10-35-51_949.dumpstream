@@ -1,0 +1,4 @@
+# Created at 2019-06-27T10:35:52.497
+Boot Manifest-JAR contains absolute paths in classpath 'D:\workspace\wechat-notification-plugin\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

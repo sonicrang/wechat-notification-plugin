@@ -1,0 +1,24 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+    <f:entry title="CorpID" field="corpid">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="Secret" field="secret">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="AgentID" field="agentid">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="ToUser" field="touser">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="ToParty" field="toparty">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="ToTag" field="totag">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="MarkDown" field="markdown">
+        <f:textbox />
+    </f:entry>
+</j:jelly>
